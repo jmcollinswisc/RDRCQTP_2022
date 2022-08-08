@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.14)  8 AUG 2022 10:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.14)  8 AUG 2022 11:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -823,7 +823,8 @@ Package: showlabels 2016/06/09 v1.8
 Package: `showlabels' v1.8 <2016/06/09>
 with amsmath equation tags
 \SL@labelposition=\count333
-) (./qtp-draft.aux)
+)
+No file qtp-draft.aux.
 \openout1 = `qtp-draft.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
@@ -842,7 +843,6 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -936,14 +936,12 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 40.
 LaTeX Info: Redefining \pageref on input line 40.
 LaTeX Info: Redefining \nameref on input line 40.
- (./qtp-draft.out) (./qtp-draft.out)
 \@outlinefile=\write5
 \openout5 = `qtp-draft.out'.
 
 LaTeX Font Info:    Trying to load font information for U+msa on input line 40.
 
-
-(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 40.
@@ -961,7 +959,7 @@ Overfull \hbox (1.33583pt too wide) in paragraph at lines 69--78
 [] [] 
  []
 
-<cover.png, id=51, 614.295pt x 794.97pt>
+<cover.png, id=7, 614.295pt x 794.97pt>
 File: cover.png Graphic file (type png)
 <use cover.png>
 Package pdftex.def Info: cover.png  used on input line 81.
@@ -982,6 +980,10 @@ This may cause the page layout to be inconsistent, however.
 
 ]
 
+Package natbib Warning: Citation `cheng2020back' on page 3 undefined on input l
+ine 100.
+
+
 Package natbib Warning: Citation `goda2021impact moen2020disparate' on page 3 u
 ndefined on input line 100.
 
@@ -989,9 +991,247 @@ ndefined on input line 100.
 Package natbib Warning: Citation `quinby2021older ' on page 3 undefined on inpu
 t line 100.
 
+
+Package natbib Warning: Citation `baker2020does' on page 3 undefined on input l
+ine 103.
+
+
+Package natbib Warning: Citation `horvath2021covid' on page 3 undefined on inpu
+t line 103.
+
+
+Package natbib Warning: Citation `clark2021financial' on page 3 undefined on in
+put line 105.
+
+
+Package natbib Warning: Citation `schneider2020household' on page 3 undefined o
+n input line 105.
+
+
+Package natbib Warning: Citation `adams2020inequality' on page 3 undefined on i
+nput line 117.
+
+
+Package natbib Warning: Citation `andersen2020consumer' on page 3 undefined on 
+input line 117.
+
+
+Package natbib Warning: Citation `andersen2020pandemic' on page 3 undefined on 
+input line 117.
+
+
+Package natbib Warning: Citation `baker2020does' on page 3 undefined on input l
+ine 117.
+
+
+Package natbib Warning: Citation `bhutta2020covid' on page 3 undefined on input
+ line 117.
+
+
+Package natbib Warning: Citation `braxton2020can' on page 3 undefined on input 
+line 117.
+
+
+Package natbib Warning: Citation `brewer2020initial' on page 3 undefined on inp
+ut line 117.
+
+
+Package natbib Warning: Citation `casado2020aggregate' on page 3 undefined on i
+nput line 117.
+
+
+Package natbib Warning: Citation `cheng2020back' on page 3 undefined on input l
+ine 117.
+
+
+Package natbib Warning: Citation `cherry2021government' on page 3 undefined on 
+input line 117.
+
+
+Package natbib Warning: Citation `chetty2020did' on page 3 undefined on input l
+ine 117.
+
+
+Package natbib Warning: Citation `clark2021financial' on page 3 undefined on in
+put line 117.
+
+
+Package natbib Warning: Citation `coibion2020labor' on page 3 undefined on inpu
+t line 117.
+
+
+Package natbib Warning: Citation `cfpb2020' on page 3 undefined on input line 1
+17.
+
+
+Package natbib Warning: Citation `cowan2020short' on page 3 undefined on input 
+line 117.
+
+
+Package natbib Warning: Citation `cutts2020musings' on page 3 undefined on inpu
+t line 117.
+
+
+Package natbib Warning: Citation `emerson2021impact' on page 3 undefined on inp
+ut line 117.
+
+
+Package natbib Warning: Citation `enriquez2020covid' on page 3 undefined on inp
+ut line 117.
+
+
+Package natbib Warning: Citation `farrell2020consumption' on page 3 undefined o
+n input line 117.
+
+
+Package natbib Warning: Citation `findling2021serious' on page 3 undefined on i
+nput line 117.
+
+
+Package natbib Warning: Citation `gerardi2021racial' on page 3 undefined on inp
+ut line 117.
+
+
+Package natbib Warning: Citation `gignac2021impacts' on page 3 undefined on inp
+ut line 117.
+
+
+Package natbib Warning: Citation `goda2022impact' on page 3 undefined on input 
+line 117.
+
+
+Package natbib Warning: Citation `goda2021impact' on page 3 undefined on input 
+line 117.
+
+
+Package natbib Warning: Citation `grantz2020use' on page 3 undefined on input l
+ine 117.
+
+
+Package natbib Warning: Citation `haughwout2020us' on page 3 undefined on input
+ line 117.
+
+
+Package natbib Warning: Citation `horvath2021covid' on page 3 undefined on inpu
+t line 117.
+
+
+Package natbib Warning: Citation `li2020impact' on page 3 undefined on input li
+ne 117.
+
+
+Package natbib Warning: Citation `loibl2020role' on page 3 undefined on input l
+ine 117.
+
+
+Package natbib Warning: Citation `lusardi20186' on page 3 undefined on input li
+ne 117.
+
+
+Package natbib Warning: Citation `moen2020disparate' on page 3 undefined on inp
+ut line 117.
+
+
+Package natbib Warning: Citation `mullen2022economic' on page 3 undefined on in
+put line 117.
+
+
+Package natbib Warning: Citation `quinby2021older' on page 3 undefined on input
+ line 117.
+
+
+Package natbib Warning: Citation `schneider2020household' on page 3 undefined o
+n input line 117.
+
+
+Package natbib Warning: Citation `schur2021covid' on page 3 undefined on input 
+line 117.
+
+
+Package natbib Warning: Citation `stavins2021unprepared' on page 3 undefined on
+ input line 117.
+
+
+Package natbib Warning: Citation `cheng2020back' on page 3 undefined on input l
+ine 125.
+
+
+Package natbib Warning: Citation `goda2021impact' on page 3 undefined on input 
+line 125.
+
+
+Package natbib Warning: Citation `moen2020disparate' on page 3 undefined on inp
+ut line 125.
+
+
+Package natbib Warning: Citation `quinby2021older' on page 3 undefined on input
+ line 125.
+
+
+Package natbib Warning: Citation `baker2020does' on page 3 undefined on input l
+ine 127.
+
+
+Package natbib Warning: Citation `casado2020aggregate' on page 3 undefined on i
+nput line 127.
+
+
+Package natbib Warning: Citation `chetty2020did' on page 3 undefined on input l
+ine 127.
+
+
+Package natbib Warning: Citation `farrell2020consumption' on page 3 undefined o
+n input line 127.
+
+
+Package natbib Warning: Citation `horvath2021covid' on page 3 undefined on inpu
+t line 127.
+
+
+Package natbib Warning: Citation `farrell2020consumption' on page 3 undefined o
+n input line 127.
+
+
+Package natbib Warning: Citation `chetty2020did' on page 3 undefined on input l
+ine 127.
+
 (/usr/local/texlive/2020/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-) [3] [4]
+)
+
+Package natbib Warning: Citation `farrell2020consumption' on page 3 undefined o
+n input line 127.
+
+
+Package natbib Warning: Citation `emerson2021impact' on page 3 undefined on inp
+ut line 132.
+
+
+Package natbib Warning: Citation `gignac2021impacts' on page 3 undefined on inp
+ut line 134.
+
+[3]
+
+Package natbib Warning: Citation `goda2022impact' on page 4 undefined on input 
+line 136.
+
+
+Package natbib Warning: Citation `schur2021covid' on page 4 undefined on input 
+line 142.
+
+
+Package natbib Warning: Citation `schur2021covid' on page 4 undefined on input 
+line 142.
+
+
+Package natbib Warning: Citation `cowan2020short' on page 4 undefined on input 
+line 144.
+
+
+Package natbib Warning: Citation `mullen2022economic' on page 4 undefined on in
+put line 152.
+
+[4]
 LaTeX Font Info:    Trying to load font information for OMS+cmtt on input line 
 195.
 LaTeX Font Info:    No file OMScmtt.fd. on input line 195.
@@ -1001,74 +1241,178 @@ LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
 (Font)              for symbol `textbraceleft' on input line 195.
 
-<ChangeY_18_21_nodisability.png, id=232, 475.7775pt x 346.29375pt>
+<ChangeY_18_21_nodisability.png, id=46, 475.7775pt x 346.29375pt>
 File: ChangeY_18_21_nodisability.png Graphic file (type png)
 <use ChangeY_18_21_nodisability.png>
 Package pdftex.def Info: ChangeY_18_21_nodisability.png  used on input line 198
 .
 (pdftex.def)             Requested size: 309.2517pt x 225.08826pt.
-<ChangeY_18_21_disability.png, id=233, 475.7775pt x 346.29375pt>
+<ChangeY_18_21_disability.png, id=47, 475.7775pt x 346.29375pt>
 File: ChangeY_18_21_disability.png Graphic file (type png)
 <use ChangeY_18_21_disability.png>
 Package pdftex.def Info: ChangeY_18_21_disability.png  used on input line 208.
 (pdftex.def)             Requested size: 309.2517pt x 225.08826pt.
-[5 <./ChangeY_18_21_nodisability.png (PNG copy)>] (./stuff.tex) [6 <./ChangeY_1
-8_21_disability.png (PNG copy)>] (./qtp-draft.bbl [7
+<shed.fwb.trend.png, id=48, 1138.0116pt x 711.1368pt>
+File: shed.fwb.trend.png Graphic file (type png)
+<use shed.fwb.trend.png>
+Package pdftex.def Info: shed.fwb.trend.png  used on input line 218.
+(pdftex.def)             Requested size: 341.40611pt x 213.34268pt.
+<mortconf.sample2.weighted.png, id=49, 1138.0116pt x 711.1368pt>
+File: mortconf.sample2.weighted.png Graphic file (type png)
+<use mortconf.sample2.weighted.png>
+Package pdftex.def Info: mortconf.sample2.weighted.png  used on input line 228.
 
-] [8]) [9]
-<back.pdf, id=268, 614.24379pt x 794.90475pt>
+(pdftex.def)             Requested size: 341.40611pt x 213.34268pt.
+<mortconf.sample2.unweighted.png, id=50, 1138.0116pt x 711.1368pt>
+File: mortconf.sample2.unweighted.png Graphic file (type png)
+<use mortconf.sample2.unweighted.png>
+Package pdftex.def Info: mortconf.sample2.unweighted.png  used on input line 23
+8.
+(pdftex.def)             Requested size: 341.40611pt x 213.34268pt.
+<mortconf.sample1.weighted.png, id=51, 1138.0116pt x 711.1368pt>
+File: mortconf.sample1.weighted.png Graphic file (type png)
+<use mortconf.sample1.weighted.png>
+Package pdftex.def Info: mortconf.sample1.weighted.png  used on input line 249.
+
+(pdftex.def)             Requested size: 341.40611pt x 213.34268pt.
+<mortconf.sample1.unweighted.png, id=52, 1138.0116pt x 711.1368pt>
+File: mortconf.sample1.unweighted.png Graphic file (type png)
+<use mortconf.sample1.unweighted.png>
+Package pdftex.def Info: mortconf.sample1.unweighted.png  used on input line 25
+9.
+(pdftex.def)             Requested size: 341.40611pt x 213.34268pt.
+<food.insuf.sample2.weighted.png, id=53, 1138.0116pt x 711.1368pt>
+File: food.insuf.sample2.weighted.png Graphic file (type png)
+<use food.insuf.sample2.weighted.png>
+Package pdftex.def Info: food.insuf.sample2.weighted.png  used on input line 26
+9.
+(pdftex.def)             Requested size: 341.40611pt x 213.34268pt.
+<food.insuf.sample2.unweighted.png, id=54, 1138.0116pt x 711.1368pt>
+File: food.insuf.sample2.unweighted.png Graphic file (type png)
+<use food.insuf.sample2.unweighted.png>
+Package pdftex.def Info: food.insuf.sample2.unweighted.png  used on input line 
+279.
+(pdftex.def)             Requested size: 341.40611pt x 213.34268pt.
+<food.insuf.sample1.weighted.png, id=55, 1138.0116pt x 711.1368pt>
+File: food.insuf.sample1.weighted.png Graphic file (type png)
+<use food.insuf.sample1.weighted.png>
+Package pdftex.def Info: food.insuf.sample1.weighted.png  used on input line 29
+0.
+(pdftex.def)             Requested size: 341.40611pt x 213.34268pt.
+<food.insuf.sample1.unweighted.png, id=56, 1138.0116pt x 711.1368pt>
+File: food.insuf.sample1.unweighted.png Graphic file (type png)
+<use food.insuf.sample1.unweighted.png>
+Package pdftex.def Info: food.insuf.sample1.unweighted.png  used on input line 
+301.
+(pdftex.def)             Requested size: 341.40611pt x 213.34268pt.
+<dif.expns.sample2.weighted.png, id=57, 1138.0116pt x 711.1368pt>
+File: dif.expns.sample2.weighted.png Graphic file (type png)
+<use dif.expns.sample2.weighted.png>
+Package pdftex.def Info: dif.expns.sample2.weighted.png  used on input line 312
+.
+(pdftex.def)             Requested size: 341.40611pt x 213.34268pt.
+<dif.expns.sample2.unweighted.png, id=58, 1138.0116pt x 711.1368pt>
+File: dif.expns.sample2.unweighted.png Graphic file (type png)
+<use dif.expns.sample2.unweighted.png>
+Package pdftex.def Info: dif.expns.sample2.unweighted.png  used on input line 3
+22.
+(pdftex.def)             Requested size: 341.40611pt x 213.34268pt.
+<dif.expns.sample1.weighted.png, id=59, 1138.0116pt x 711.1368pt>
+File: dif.expns.sample1.weighted.png Graphic file (type png)
+<use dif.expns.sample1.weighted.png>
+Package pdftex.def Info: dif.expns.sample1.weighted.png  used on input line 333
+.
+(pdftex.def)             Requested size: 341.40611pt x 213.34268pt.
+<dif.expns.sample1.unweighted.png, id=60, 1138.0116pt x 711.1368pt>
+File: dif.expns.sample1.unweighted.png Graphic file (type png)
+<use dif.expns.sample1.unweighted.png>
+Package pdftex.def Info: dif.expns.sample1.unweighted.png  used on input line 3
+43.
+(pdftex.def)             Requested size: 341.40611pt x 213.34268pt.
+[5 <./ChangeY_18_21_nodisability.png (PNG copy)>] (./stuff.tex)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6 <./ChangeY_18_21_disability.png (PNG copy)> <./shed.fwb.trend.png>]
+
+LaTeX Warning: Text page 7 contains only floats.
+
+[7 <./mortconf.sample2.weighted.png> <./mortconf.sample2.unweighted.png>]
+[8 <./mortconf.sample1.weighted.png> <./mortconf.sample1.unweighted.png>]
+[9 <./food.insuf.sample2.weighted.png> <./food.insuf.sample2.unweighted.png>]
+[10 <./food.insuf.sample1.weighted.png> <./food.insuf.sample1.unweighted.png>]
+[11 <./dif.expns.sample2.weighted.png> <./dif.expns.sample2.unweighted.png>]
+[12 <./dif.expns.sample1.weighted.png> <./dif.expns.sample1.unweighted.png>]
+(./qtp-draft.bbl [13
+
+] [14]) [15]
+<back.pdf, id=165, 614.24379pt x 794.90475pt>
 File: back.pdf Graphic file (type pdf)
 <use back.pdf>
-Package pdftex.def Info: back.pdf  used on input line 246.
+Package pdftex.def Info: back.pdf  used on input line 386.
 (pdftex.def)             Requested size: 614.2423pt x 794.90282pt.
 File: back.pdf Graphic file (type pdf)
 <use back.pdf>
-Package pdftex.def Info: back.pdf  used on input line 246.
+Package pdftex.def Info: back.pdf  used on input line 386.
 (pdftex.def)             Requested size: 614.2423pt x 794.90282pt.
-<back.pdf, id=271, page=1, 614.24379pt x 794.90475pt>
+<back.pdf, id=168, page=1, 614.24379pt x 794.90475pt>
 File: back.pdf Graphic file (type pdf)
 <use back.pdf, page 1>
-Package pdftex.def Info: back.pdf , page1 used on input line 246.
-(pdftex.def)             Requested size: 614.2423pt x 794.90282pt.
-File: back.pdf Graphic file (type pdf)
-<use back.pdf, page 1>
-Package pdftex.def Info: back.pdf , page1 used on input line 246.
+Package pdftex.def Info: back.pdf , page1 used on input line 386.
 (pdftex.def)             Requested size: 614.2423pt x 794.90282pt.
 File: back.pdf Graphic file (type pdf)
 <use back.pdf, page 1>
-Package pdftex.def Info: back.pdf , page1 used on input line 246.
+Package pdftex.def Info: back.pdf , page1 used on input line 386.
 (pdftex.def)             Requested size: 614.2423pt x 794.90282pt.
 File: back.pdf Graphic file (type pdf)
 <use back.pdf, page 1>
-Package pdftex.def Info: back.pdf , page1 used on input line 246.
+Package pdftex.def Info: back.pdf , page1 used on input line 386.
 (pdftex.def)             Requested size: 614.2423pt x 794.90282pt.
 File: back.pdf Graphic file (type pdf)
 <use back.pdf, page 1>
-Package pdftex.def Info: back.pdf , page1 used on input line 246.
+Package pdftex.def Info: back.pdf , page1 used on input line 386.
 (pdftex.def)             Requested size: 614.2423pt x 794.90282pt.
- [10
+File: back.pdf Graphic file (type pdf)
+<use back.pdf, page 1>
+Package pdftex.def Info: back.pdf , page1 used on input line 386.
+(pdftex.def)             Requested size: 614.2423pt x 794.90282pt.
+ [16
 
  <./back.pdf>]
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 249.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 249.
-(./qtp-draft.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 249.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 249.
-Package rerunfilecheck Info: File `qtp-draft.out' has not changed.
-(rerunfilecheck)             Checksum: 534B614933B450F3E9A963A9891DA499;597.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 389.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 389.
+(./qtp-draft.aux
 
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 389.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 389.
+
+
+Package rerunfilecheck Warning: File `qtp-draft.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `qtp-draft.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  534B614933B450F3E9A963A9891DA499;597.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 23330 strings out of 480607
- 450520 string characters out of 5903596
- 713229 words of memory out of 5000000
- 38678 multiletter control sequences out of 15000+600000
+ 23421 strings out of 480607
+ 453451 string characters out of 5903596
+ 712484 words of memory out of 5000000
+ 38744 multiletter control sequences out of 15000+600000
  542215 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,19n,60p,1198b,902s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1087,10 +1431,10 @@ texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/t
 exlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/te
 xlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/tex
 live/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on qtp-draft.pdf (10 pages, 470932 bytes).
+Output written on qtp-draft.pdf (16 pages, 7652405 bytes).
 PDF statistics:
- 348 PDF objects out of 1000 (max. 8388607)
- 304 compressed objects within 4 object streams
- 61 named destinations out of 1000 (max. 500000)
- 136 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 247 PDF objects out of 1000 (max. 8388607)
+ 186 compressed objects within 2 object streams
+ 79 named destinations out of 1000 (max. 500000)
+ 113 words of extra memory for PDF output out of 10000 (max. 10000000)
 
